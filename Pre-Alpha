@@ -1,0 +1,1 @@
+display dialog "Welcome to the Minecraft Mod Helper!" buttons {"Minecrafe Jar Tool", "Minecraft Item Codes", "Minecraft Mods"} default button 3
